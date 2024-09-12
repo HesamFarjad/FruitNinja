@@ -42,3 +42,10 @@ Fruit:
 Spawner:
 * Continuously spawns fruits and bombs at random intervals and positions.
 * Applies force to spawned objects to simulate throwing them into the air.
+
+
+<img width="1107" alt="Screenshot 1403-06-22 at 2 58 02 in the afternoon" src="https://github.com/user-attachments/assets/faa1c4da-8393-4442-933f-baf23c815e2a">
+<img width="1105" alt="Screenshot 1403-06-22 at 2 57 50 in the afternoon" src="https://github.com/user-attachments/assets/1011043d-0ae1-4e51-a83b-7e323a8567f3">
+<img width="1107" alt="Screenshot 1403-06-22 at 2 57 43 in the afternoon" src="https://github.com/user-attachments/assets/67300a76-0cf3-42fc-9d2f-56a10ae6bdf9">
+<img width="1105" alt="Screenshot 1403-06-22 at 2 57 35 in the afternoon" src="https://github.com/user-attachments/assets/2f5fdd82-1397-4e4f-9115-78795d8e6afe">
+
